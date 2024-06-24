@@ -96,7 +96,7 @@ class SimonDice:
                 self.actualizar_info()
                 self.secuencia_user = []
                 self.desactivar_botones()
-                self.agregar_color_juego()
+                self.__ventana.after(1000, self.agregar_color_juego)
         else:
             messagebox.showinfo("GAME OVER", f"GAME OVER. Tu puntuación final es: {self.puntaje}")
             self.guardar_puntaje_final()

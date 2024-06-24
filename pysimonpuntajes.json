@@ -2,6 +2,18 @@
     {
         "nombre": "lucas",
         "fecha": "2024-06-24",
+        "hora": "16:22:29",
+        "puntaje": 8
+    },
+    {
+        "nombre": "lucas",
+        "fecha": "2024-06-24",
+        "hora": "16:44:00",
+        "puntaje": 6
+    },
+    {
+        "nombre": "lucas",
+        "fecha": "2024-06-24",
         "hora": "12:30:38",
         "puntaje": 4
     },
@@ -20,19 +32,13 @@
     {
         "nombre": "lucas",
         "fecha": "2024-06-24",
-        "hora": "12:52:09",
-        "puntaje": 0
-    },
-    {
-        "nombre": "lucas",
-        "fecha": "2024-06-24",
-        "hora": "12:52:12",
-        "puntaje": 0
-    },
-    {
-        "nombre": "lucas",
-        "fecha": "2024-06-24",
         "hora": "12:52:40",
+        "puntaje": 4
+    },
+    {
+        "nombre": "lucas",
+        "fecha": "2024-06-24",
+        "hora": "16:30:38",
         "puntaje": 4
     },
     {
@@ -46,6 +52,30 @@
         "fecha": "2024-06-24",
         "hora": "12:56:25",
         "puntaje": 3
+    },
+    {
+        "nombre": "lucas",
+        "fecha": "2024-06-24",
+        "hora": "12:59:03",
+        "puntaje": 3
+    },
+    {
+        "nombre": "lucas",
+        "fecha": "2024-06-24",
+        "hora": "17:34:48",
+        "puntaje": 3
+    },
+    {
+        "nombre": "ju",
+        "fecha": "2024-06-24",
+        "hora": "12:59:46",
+        "puntaje": 2
+    },
+    {
+        "nombre": "lucas",
+        "fecha": "2024-06-24",
+        "hora": "17:39:32",
+        "puntaje": 2
     },
     {
         "nombre": "lucas",
@@ -68,43 +98,97 @@
     {
         "nombre": "lucas",
         "fecha": "2024-06-24",
-        "hora": "12:58:26",
-        "puntaje": 0
-    },
-    {
-        "nombre": "lucas",
-        "fecha": "2024-06-24",
         "hora": "12:58:41",
         "puntaje": 1
     },
     {
         "nombre": "lucas",
         "fecha": "2024-06-24",
-        "hora": "12:59:03",
-        "puntaje": 3
+        "hora": "12:52:09",
+        "puntaje": 0
     },
     {
-        "nombre": "ju",
+        "nombre": "lucas",
         "fecha": "2024-06-24",
-        "hora": "12:59:46",
+        "hora": "12:52:12",
+        "puntaje": 0
+    },
+    {
+        "nombre": "lucas",
+        "fecha": "2024-06-24",
+        "hora": "12:58:26",
+        "puntaje": 0
+    },
+    {
+        "nombre": "lucas",
+        "fecha": "2024-06-24",
+        "hora": "17:34:03",
+        "puntaje": 0
+    },
+    {
+        "nombre": "lucas",
+        "fecha": "2024-06-24",
+        "hora": "17:34:06",
+        "puntaje": 0
+    },
+    {
+        "nombre": "lucas",
+        "fecha": "2024-06-24",
+        "hora": "17:34:09",
+        "puntaje": 0
+    },
+    {
+        "nombre": "lucas",
+        "fecha": "2024-06-24",
+        "hora": "17:34:12",
+        "puntaje": 0
+    },
+    {
+        "nombre": "lucas",
+        "fecha": "2024-06-24",
+        "hora": "17:34:14",
+        "puntaje": 0
+    },
+    {
+        "nombre": "lucas",
+        "fecha": "2024-06-24",
+        "hora": "17:34:17",
+        "puntaje": 0
+    },
+    {
+        "nombre": "juan",
+        "fecha": "2024-06-24",
+        "hora": "17:40:50",
         "puntaje": 2
     },
     {
         "nombre": "lucas",
         "fecha": "2024-06-24",
-        "hora": "16:22:29",
-        "puntaje": 8
+        "hora": "18:19:23",
+        "puntaje": 3
     },
     {
         "nombre": "lucas",
         "fecha": "2024-06-24",
-        "hora": "16:30:38",
-        "puntaje": 4
+        "hora": "18:19:43",
+        "puntaje": 3
     },
     {
         "nombre": "lucas",
         "fecha": "2024-06-24",
-        "hora": "16:44:00",
-        "puntaje": 6
+        "hora": "18:20:25",
+        "puntaje": 5
+    },
+    {
+        "nombre": "lucas",
+        "fecha": "2024-06-24",
+        "hora": "18:20:29",
+        "puntaje": 0
+    },
+    {
+        "nombre": "lucas",
+        "fecha": "2024-06-24",
+        "hora": "18:20:48",
+        "puntaje": 3
     }
 ]
