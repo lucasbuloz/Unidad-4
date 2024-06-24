@@ -9,7 +9,7 @@ class SimonDice:
     def __init__(self, ventana):
         self.__ventana = ventana
         self.__ventana.title("Py-SimonGame")
-        self.__ventana.geometry("300x350")  # Ventana más chica
+        self.__ventana.geometry("300x350")  
 
         self.color = ["#ff0000", "#00ff00", "#0000ff", "#ffff00"]
         self.secuencia = []
@@ -62,7 +62,7 @@ class SimonDice:
         self.mostrar_secuencia()
 
     def mostrar_secuencia(self):
-        delay = 1000  # Milisegundos por defecto para mostrar la secuencia
+        delay = 1000  
         for i, color in enumerate(self.secuencia):
             self.__ventana.after(delay * i, lambda color=color: self.cambiar_color_botones(color))
             self.__ventana.after(delay * i + delay // 2, self.restaurar_color_botones)
